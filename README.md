@@ -30,7 +30,7 @@ Once the candidate lymphoctyic patches are selected, they undergo a localization
 
 <img src="images/Localization_model.png" > 
 </b>
-Figure 2: Architectural diagram of the localization model.
+Figure 3: Architectural diagram of the localization model.
 
 ## Requirements
 </b>
