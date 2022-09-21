@@ -10,7 +10,7 @@ Presence of Tumor Infitrating Lymphocytes in cancer patients is related to patie
 </b>
 Figure 1: Overview of the proposed lymphocyte analysis workflow.
 
-## Histopathological Lymphcoyte Dataset
+## Histopathological Lymphocyte Dataset
 </b>
 Two publically available IHC stained lymphocytic datasets are used. For classification/screening phase we used "LYSTO dataset" and for detection/localization phase we employed dataset released by the "NuClick developers". Both datasets contained lymphocyte patch images stained using immunohistochemistry staining, which stains lymphocytes in brown color rings surronding a blue nucleus. Patch images were obtained from pathologist marked ROIs obtaned from different hospitals in Netherland. These ROI images are categorized into three regions a) artifact regions (containing some staining issues) b) regular regions (with sparse lymphocytes) and c) dense regions (with overlapping lymphocytes).
 
@@ -43,7 +43,7 @@ Figure 3: Architectural diagram of the localization model.
 
 </b> Torchvision = 0.13.0
 
-</b> Detectron2
+</b> Detectron2 
 
 
 ## Implementation Details
